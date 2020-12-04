@@ -1,4 +1,4 @@
-package net.consensys.tommygun;
+package org.coopgoods;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
